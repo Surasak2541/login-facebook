@@ -10,3 +10,4 @@ Replace with your Facebook App ID & Secret :
 
 - /frontend/src/components/Logins.js
 - /backend/src/auth/facebook.strategy.ts
+"# faceboo_heroku" 
